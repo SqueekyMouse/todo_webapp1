@@ -37,3 +37,5 @@ def show_todo(a:list)->None:
 if __name__ == "__main__":
     print(f"Here is the todo list from file:\n\
         \n{get_todo_file('todo.txt')}")
+
+        
